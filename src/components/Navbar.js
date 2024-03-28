@@ -81,7 +81,7 @@ function NavBar() {
 
             <Nav.Item className="bunker-btn">
               <Button
-                href="https://github.com/pateshin/study-bunker"
+                href="https://study-bunker.vercel.app/"
                 className="bunker-inner-btn"
               > 
                 <AiOutlineBook style={{ fontSize: "1.1em" }} />
