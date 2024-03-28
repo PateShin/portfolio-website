@@ -7,7 +7,7 @@ function Type() {
       options={{
         strings: [
           "Computer Science Student",
-          "Naional University of Singapore",
+          "National University of Singapore",
           "Patrick Shin",
         ],
         autoStart: true,
